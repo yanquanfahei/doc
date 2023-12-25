@@ -14,7 +14,7 @@ hero:
       text: View on GitHub
       link: https://github.com/nihaojob/vue-fabric-editor
   image:
-    src: /public/main.png
+    src: https://user-images.githubusercontent.com/13534626/230828335-0adee0ae-b951-4171-b6ba-d2b9cd44dd6a.png
     alt: VitePress
 
 features:
