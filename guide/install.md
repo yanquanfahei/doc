@@ -1,7 +1,10 @@
 
 # 安装使用
 
+目前尚未开发编辑器SDK，如果你需要将编辑器集成到你的现有项目中，可以通过ifrmae的形式引入。
+
 需要安装Node.js v16及以上版本。
+
 
 ### 安装与运行
 
@@ -31,93 +34,83 @@ npm run build
 ```
 
 ### 项目目录
-
-核心文件在core目录中，功能组件在components中。
+核心文件在core目录中，core实现了编辑器的核心功能，包括编辑器的生命周期、插件化机制，功能组件在components中，主要为调用core目录中的API方法。
 
 ```
 ├── src
 │   ├── App.tsx
 │   ├── App.vue
-│   ├── assets      // 静态资源
+│   ├── assets
 │   │   ├── editor
 │   │   ├── filters
 │   │   └── fonts
-│   ├── components // vue功能组件
-│   │   ├── align.vue  // 元素对齐
-│   │   ├── attribute.vue // 属性修改
-│   │   ├── bgBar.vue // 画布设置
-│   │   ├── centerAlign.vue // 居中对齐
-│   │   ├── clone.vue // 复制 
-│   │   ├── color.vue // 颜色组件 支持渐变与单色设置
-│   │   ├── contextMenu // 右键菜单
-│   │   ├── del.vue // 元素删除
-│   │   ├── dragMode.vue // 
-│   │   ├── filters.vue // 滤镜
-│   │   ├── flip.vue // 反转
-│   │   ├── fontTmpl.vue // 字体样式模板 
-│   │   ├── group.vue // 组合操作
-│   │   ├── history.vue // 历史记录
-│   │   ├── importFile.vue  // 插入图片文件
-│   │   ├── importJSON.vue  // 导入JSON文件
-│   │   ├── importTmpl.vue  // 模板
-│   │   ├── inputNumber  // 数字左键 支持左右滑动调节
-│   │   ├── lang.vue // 国际化
-│   │   ├── layer.vue // 图层管理
-│   │   ├── lock.vue // 图层锁定
-│   │   ├── previewCurrent.vue // 图片预览
-│   │   ├── replaceImg.vue // 图片替换
-│   │   ├── save.vue // 文件保存 支持图片、JSON格式
-│   │   ├── setSize.vue  
-│   │   ├── svgEl.vue // 分类SVG素材
+│   ├── components // 功能组件
+│   │   ├── align.vue
+│   │   ├── attribute.vue
+│   │   ├── bgBar.vue
+│   │   ├── centerAlign.vue
+│   │   ├── clone.vue
+│   │   ├── colorSelector.vue
+│   │   ├── del.vue
+│   │   ├── dragMode.vue
+│   │   ├── filters.vue
+│   │   ├── flip.vue
+│   │   ├── fontTmpl.vue
+│   │   ├── group.vue
+│   │   ├── history.vue
+│   │   ├── importFile.vue
+│   │   ├── importJSON.vue
+│   │   ├── importSvgEl.vue
+│   │   ├── importTmpl.vue
+│   │   ├── inputNumber
+│   │   ├── lang.vue
+│   │   ├── layer.vue
+│   │   ├── lock.vue
+│   │   ├── previewCurrent.vue
+│   │   ├── replaceImg.vue
+│   │   ├── save.vue
+│   │   ├── setSize.vue
 │   │   ├── svgIcon
-│   │   ├── tools.vue  // 插入元素 
-│   │   └── zoom.vue   // 画布缩放功能
+│   │   ├── tools.vue
+│   │   ├── waterMark.vue
+│   │   └── zoom.vue
 │   ├── config
 │   │   └── constants
-│   ├── core  // 编辑器核心文件
-│   │   ├── EditorGroupText.ts    // 组内文字可编辑
-│   │   ├── EditorWorkspace.ts  //画布区域模拟
-│   │   ├── index.ts // 入口文件
-│   │   ├── initAligningGuidelines.ts // 辅助线工
-│   │   ├── initCenterAlign.ts   //  对齐方式功能
-│   │   ├── initControls.ts      // 自定义控制条
-│   │   ├── initControlsRotate.ts   // 自定义控制条
-│   │   ├── initHotKeys.ts // 快捷键
-│   │   ├── initializeLineDrawing.js    // 线条绘制
-│   │   ├── objects // 自定义元素 箭头、线条
-│   │   └── ruler  // 标尺功能
+│   ├── core  // 编辑器核心
+│   │   ├── ContextMenu.js  // 右键菜单
+│   │   ├── ServersPlugin.ts
+│   │   ├── core.ts
+│   │   ├── index.ts // core入口
+│   │   ├── objects // 自定义元素
+│   │   ├── plugin // 插件目录
+│   │   ├── plugin.ts
+│   │   └── ruler
 │   ├── env.d.ts
-│   ├── hooks
-│   │   └── select.js
-│   ├── language //  国际化文件
+│   ├── language // 国际化
 │   │   ├── en.json
 │   │   ├── index.ts
 │   │   ├── pt.json
 │   │   └── zh.json
 │   ├── main.ts
-│   ├── mixins
-│   │   └── select.ts
 │   ├── router
 │   │   ├── index.ts
 │   │   └── routes.ts
 │   ├── styles
+│   │   ├── contextMenu.css
 │   │   ├── index.less
 │   │   ├── resetViewUi.less
 │   │   └── variable.less
 │   ├── utils
+│   │   ├── event
+│   │   ├── local.ts
+│   │   ├── math.ts
+│   │   └── utils.ts
 │   └── views
-│       └── home  // 程序入口
-├── tsconfig.json
-├── tsconfig.node.json
-├── typings
-│   ├── extends.d.ts
-│   └── vue3-clipboard.d.ts
-└── vite.config.ts
+│       └── home
 ```
 
 ### 架构说明
 
 通过组件 src/views/home.vue 作为入口文件，初始化Core功能代码的实例，并将实例通过 _Provide_/inject的方式注入到各个业务组件中，组件调用Core实例提供的API方法来实现业务功能。
 
-<figure><img src="/public/Foxmail20230508010441.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="/public/Vue-Fabric-Editor.png" alt=""><figcaption></figcaption></figure>

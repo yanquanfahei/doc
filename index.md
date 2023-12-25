@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "🚀 Fast Pic Design"
+  name: "🚀 Vue Fabric Editor"
   text: "快速构建图形编辑器"
   tagline: 一款基于Fabric + Vue3的开源Web图片编辑器
   actions:

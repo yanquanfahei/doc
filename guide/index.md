@@ -2,13 +2,13 @@
  * @Author: 秦少卫
  * @Date: 2023-12-21 23:57:40
  * @LastEditors: 秦少卫
- * @LastEditTime: 2023-12-22 00:32:23
+ * @LastEditTime: 2023-12-25 21:14:48
  * @Description: file content
 -->
 
 # 简介
 
-它是一款基于Fabric + Vue3开发的一款开源Web图片编辑器**，**二次开发简单、扩展便捷，**可帮助开发者快速构建一个面向非专业设计人员的图形编辑器**。
+它是一款基于Fabric + Vue3开发的一款开源Web图片编辑器，**二次开发简单、扩展便捷，** **可帮助开发者快速构建功能强大、简单易用的图形编辑器**。
 
 [预览](https://nihaojob.github.io/vue-fabric-editor/#/)   |  [Github主页](https://github.com/nihaojob/vue-fabric-editor)&#x20;
 
