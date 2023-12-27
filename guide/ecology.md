@@ -2,12 +2,12 @@
  * @Author: 秦少卫
  * @Date: 2023-12-25 22:03:13
  * @LastEditors: 秦少卫
- * @LastEditTime: 2023-12-25 22:36:19
+ * @LastEditTime: 2023-12-27 22:13:34
  * @Description: file content
 -->
 # 生态版本
 
-Vue Fabric Editor的插件化图片编辑器的基石，开源项目需要投入大量的精力，**我们还没有将核心功能打包为一套完整的图片编辑器SDK，所以其他开发者们基于当前项目做了不同改造**，如Element UI版、SDK版、Electron版本、React版本、PSD导入版、vue2版本等，这有助于开发者快速的完成自己公司的项目开发任务。
+Vue Fabric Editor的插件化图片编辑器的基石，开源项目需要投入大量的精力，**我们还没有将核心功能打包为一套完整的图片编辑器SDK，其他开发者们基于当前项目做了不同改造**，如Element UI版、SDK版、Electron版本、React版本、PSD导入版、vue2版本等，这有助于开发者快速的完成自己公司的项目开发任务。
 
 版本列表：
 - SDK优化版 https://github.com/Smi1e96/vue-fabric-editor/tree/f-monorepo
