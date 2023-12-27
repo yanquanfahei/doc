@@ -25,8 +25,10 @@ export default defineConfig({
           { text: '功能介绍', link: '/guide/feature' },
           { text: '安装使用', link: '/guide/install' },
           { text: '项目起源', link: '/guide/origin' },
-          // { text: '插件化架构', link: '/guide/plugin' },
-          // { text: '贡献指南', link: '/guide/community' },
+          { text: '自定义字体', link: 'https://t.zsxq.com/15AVKSQgN' },
+          { text: '自定义模板', link: 'https://github.com/nihaojob/vue-fabric-editor-static/blob/main/template/index.json' },
+          { text: '自定义素材分类', link: 'https://github.com/nihaojob/vue-fabric-editor-static/blob/main/svg/type.json' },
+          { text: '部署到Nginx', link: 'https://articles.zsxq.com/id_cwrgkza32i0b.html' },
         ]
       },
       {
