@@ -5,6 +5,19 @@ export default defineConfig({
   title: "🚀 快图创意引擎",
   description: "设计编辑器文档",
   base: '/editorDoc',
+  head:[
+    [
+      'script',
+      {},
+      `var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?000b1d0ecb9d8f1c003cff19cc2a44a2";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();`
+    ]
+  ],
   themeConfig: {
     search: {
       provider: 'local'
