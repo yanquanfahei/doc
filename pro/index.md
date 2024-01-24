@@ -2,7 +2,7 @@
  * @Author: 秦少卫
  * @Date: 2023-12-25 22:39:37
  * @LastEditors: 秦少卫
- * @LastEditTime: 2024-01-25 00:22:20
+ * @LastEditTime: 2024-01-25 00:27:19
  * @Description: file content
 -->
 
@@ -38,6 +38,8 @@
 
 <img src="/public/screenshot-20231227-124939.png" alt="" >
 
+
+[快图](https://www.kuaitu.cc/)
 
 
 
