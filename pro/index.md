@@ -2,13 +2,13 @@
  * @Author: 秦少卫
  * @Date: 2023-12-25 22:39:37
  * @LastEditors: 秦少卫
- * @LastEditTime: 2023-12-27 13:03:00
+ * @LastEditTime: 2024-01-25 00:22:20
  * @Description: file content
 -->
 
 # 简介
 
-[咨询Pro版本](https://wj.qq.com/s2/13937276/c127/)
+[咨询Pro版本](https://wj.qq.com/s2/13937276/c127/) | [演示视频](https://www.bilibili.com/video/BV14T4y1b7dy/?vd_source=34cba90f3d6c9813f6b3ef7681d20943) | [购买](https://afdian.net/item/ecc8c2a4bad311eeab1f5254001e7c00)
 
 开源版本提供了一个强大的前端插件化图形编辑器，但企业在实际应用中，仍要进行很多的开发工作，如素材管理、模板管理、账号管理、批量生成图片、图片存储等功能。
 
@@ -19,8 +19,10 @@
 <img src="/public/c5f1268b28694307b3cacc7c57bd3228~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.webp" alt="">
 
 ## 1. 素材管理
+
 图形编辑器需要对字体文件、图片素材、特效字体、模板文件等内容进行管理，**轻松替换编辑器内素材，秒变符合垂直业务场景编辑器**，如电商图片编辑器、证书图片编辑器等。
 <img src="/public/screenshot-20231227-125713.png" alt="" >
+
 
 ## 2. 账号角色管理
 可在后台创建管理员、普通角色账号，实现不同角色的协同工作。同时可对C端用户提供注册、登录功能。
@@ -35,4 +37,7 @@
 - 一图多品，将多份数据生成板式一样的产品图片，如将多个不同的产品生成风格统一的产品图片。
 
 <img src="/public/screenshot-20231227-124939.png" alt="" >
+
+
+
 
