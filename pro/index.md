@@ -2,7 +2,7 @@
  * @Author: 秦少卫
  * @Date: 2023-12-25 22:39:37
  * @LastEditors: 秦少卫
- * @LastEditTime: 2024-01-25 00:27:19
+ * @LastEditTime: 2024-02-06 14:45:03
  * @Description: file content
 -->
 
@@ -17,6 +17,14 @@
 如果您需要定制化开发或者有自己的技术工程师团队，我们可以提供详细的实施方案与培训课程，帮助技术团队快速接入，**让您的技术团队聚焦在业务中，而不是将大量精力消耗在图片编辑器上**。
 
 <img src="/public/c5f1268b28694307b3cacc7c57bd3228~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.webp" alt="">
+
+
+## 体验账号
+
+- 前台：http://pro.kuaitu.cc/
+- 后台：http://39.106.2.92:1337/admin/
+    - 用户名：kuaitu@163.com
+    - 密码：kuaitu123A
 
 ## 1. 素材管理
 
