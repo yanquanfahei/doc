@@ -75,6 +75,14 @@ export default defineConfig({
         items: [
           { text: '简介', link: '/pro/index' },
         ]
+      },
+      {
+        text: '🎁 fabric.js教程资源',
+        collapsed: false,
+        items: [
+          { text: '入门文章', link: '/learning/article' },
+          { text: '在线示例', link: '/learning/demo' },
+        ]
       }
     ],
     editLink: {
