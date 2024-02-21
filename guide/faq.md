@@ -2,7 +2,7 @@
 
 # 常见问题
 
-我将Fabric.js开发者的高频、高质量交流内容整理汇总在星球内，如果你在使用Fabric.js做开发，欢迎加入知识星球，星球内有大量关于fabric.js和图形编辑器的资料。
+我将fabric.js开发者的高频、高质量交流内容整理汇总在星球内，如果你在使用fabric.js做开发，欢迎加入知识星球，星球内有大量关于fabric.js和图形编辑器的资料。
 
 <figure><img src="/public/231202037-18fe913f-81ab-4cd6-aa87-ada471e27586.png" alt=""><figcaption></figcaption></figure>
 

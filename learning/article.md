@@ -2,20 +2,19 @@
  * @Author: 秦少卫
  * @Date: 2024-02-21 10:42:51
  * @LastEditors: 秦少卫
- * @LastEditTime: 2024-02-21 13:00:55
+ * @LastEditTime: 2024-02-21 13:01:58
  * @Description: file content
 -->
 
 
 # 入门文章
 
-我将fabric.js开发者的高频、高质量交流内容整理汇总在星球内，如果你在使用Fabric.js做开发，欢迎加入知识星球，星球内有大量关于fabric.js和图形编辑器的资料。
+我将fabric.js开发者的高频、高质量交流内容整理汇总在星球内，如果你在使用fabric.js做开发，欢迎加入知识星球，星球内有大量关于fabric.js和图形编辑器的资料。
 
 <figure><img src="/public/231202037-18fe913f-81ab-4cd6-aa87-ada471e27586.png" alt=""><figcaption></figcaption></figure>
 
 ### 官网
 - [官网文章8篇](http://fabricjs.com/articles/)
-
 
 ### 作者
 - [使用fabric.js 快速开发一个图片编辑器](https://juejin.cn/post/7155040639497797645)
