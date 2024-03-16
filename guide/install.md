@@ -17,7 +17,7 @@
 
 ### 安装与运行
 
-需要安装Node.js v16及以上版本。
+需要安装Node.js v16及以上版本和pnpm。
 
 * 获取项目代码
 
@@ -29,19 +29,19 @@ git clone https://github.com/nihaojob/vue-fabric-editor.git
 
 ```
 cd vue-fabric-editor
-npm install
+pnpm install
 ```
 
 * 运行
 
 ```
-npm run dev
+pnpm dev
 ```
 
 * 打包
 
 ```
-npm run build
+pnpm build
 ```
 
 ### 项目目录
