@@ -3,6 +3,7 @@
 
 目前尚未开发编辑器SDK，如果你需要将编辑器集成到你的现有项目中，可以通过ifrmae的形式引入。
 
+<iframe src="//player.bilibili.com/player.html?aid=1952122460&bvid=BV1bC41187bW&cid=1479494075&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="400" allowfullscreen="true"> </iframe>
 
 将来编辑器集成到自己项目中的三种方式：
 
@@ -11,6 +12,7 @@
 2. 单独部署，使用iframe嵌入到页面中，在iframe的页面地址上携带token参数，编辑器内所有接口均携带token验签名，缺点：需要均需携带token，需适配token过期问题，优点：可快速集成，复用简单，功能与其他模块解耦，推荐🥰。
 
 3. 将来核心功能文件抽出，迁移到现有项目中，仅限vue3项目，需单独引入UI框架、国际化插件等，样式可能有冲突，较为繁琐，不推荐🙈。
+
 
 
 

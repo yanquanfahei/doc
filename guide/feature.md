@@ -1,5 +1,7 @@
 # 功能介绍
 
+<iframe src="//player.bilibili.com/player.html?aid=1501190050&bvid=BV1US421A7TU&cid=1451021387&p=1" scrolling="no" border="0" frameborder="no" width="100%" height="400" framespacing="0" allowfullscreen="true"> </iframe>
+
 ### 画布功能
 
 **画布属性：尺寸、预设大小、背景色。** 支持修改画布尺寸，也有预常用预设的画布尺寸，可以便捷设置，有背景色修改属性，同时提供常用颜色的快捷修改。&#x20;
