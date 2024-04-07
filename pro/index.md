@@ -19,18 +19,10 @@
 <img src="/public/c5f1268b28694307b3cacc7c57bd3228~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.webp" alt="">
 
 
-## 体验账号
-
-- 前台：http://pro.kuaitu.cc/
-- 后台：http://39.106.2.92:1337/admin/
-    - 用户名：kuaitu@163.com
-    - 密码：kuaitu123A
-
 ## 1. 素材管理
 
 图形编辑器需要对字体文件、图片素材、特效字体、模板文件等内容进行管理，**轻松替换编辑器内素材，秒变符合垂直业务场景编辑器**，如电商图片编辑器、证书图片编辑器等。
 <img src="/public/screenshot-20231227-125713.png" alt="" >
-
 
 ## 2. 账号角色管理
 可在后台创建管理员、普通角色账号，实现不同角色的协同工作。同时可对C端用户提供注册、登录功能。
@@ -47,7 +39,7 @@
 <img src="/public/screenshot-20231227-124939.png" alt="" >
 
 
-[快图](https://www.kuaitu.cc/)
+[快图](https://wj.qq.com/s2/13937276/c127/)
 
 
 
