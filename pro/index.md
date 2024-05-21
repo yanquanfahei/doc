@@ -8,7 +8,7 @@
 
 # 简介
 
-[咨询Pro版本](https://wj.qq.com/s2/13937276/c127/) | [演示视频](https://www.bilibili.com/video/BV14T4y1b7dy/?vd_source=34cba90f3d6c9813f6b3ef7681d20943) | [购买](https://afdian.net/item/ecc8c2a4bad311eeab1f5254001e7c00)
+[咨询Pro版本](https://wj.qq.com/s2/13937276/c127/) 
 
 开源版本提供了一个强大的前端插件化图形编辑器，但企业在实际应用中，仍要进行很多的开发工作，如素材管理、模板管理、账号管理、批量生成图片、图片存储等功能。
 
