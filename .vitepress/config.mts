@@ -38,6 +38,7 @@ export default defineConfig({
           { text: '功能介绍', link: '/guide/feature' },
           { text: '安装使用', link: '/guide/install' },
           { text: '项目起源', link: '/guide/origin' },
+          { text: 'pr教程', link: '/guide/pr' },
           { text: '自定义字体', link: 'https://t.zsxq.com/15AVKSQgN' },
           { text: '自定义模板', link: 'https://github.com/nihaojob/vue-fabric-editor-static/blob/main/template/index.json' },
           { text: '自定义素材分类', link: 'https://github.com/nihaojob/vue-fabric-editor-static/blob/main/svg/type.json' },
