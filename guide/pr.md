@@ -1,3 +1,7 @@
+# 如何像项目提交代码
+
+如何像项目提交代码，首先需要fork开源项目，然后clone到本地，最后在本地新建分支进行修改，修改完成后push到远程仓库，再发起Pull Request请求，等待项目管理员合并即可。
+
 ## 1. 点击链接进去项目主页，点击fork按钮
 
 <figure><img src="/public/pr01.png" alt=""><figcaption></figcaption></figure>

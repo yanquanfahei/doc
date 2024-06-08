@@ -2,44 +2,36 @@
  * @Author: 秦少卫
  * @Date: 2023-12-25 22:39:37
  * @LastEditors: 秦少卫
- * @LastEditTime: 2024-02-06 14:45:03
+ * @LastEditTime: 2024-06-08 10:07:33
  * @Description: file content
 -->
 
 # 简介
 
-[咨询Pro版本](https://wj.qq.com/s2/13937276/c127/) 
 
-开源版本提供了一个强大的前端插件化图形编辑器，但企业在实际应用中，仍要进行很多的开发工作，如素材管理、模板管理、账号管理、批量生成图片、图片存储等功能。
+开源版本提供了一个强大的前端插件化图形编辑器，但企业在实际应用中，仍要需要进行其他的研发工作，如管理后台、用户账号体系、数据存储等功能。
 
-如果您的企业没有技术人员，完全不用担心，**我们提供完整的SaaS的服务，帮助企业以快速、低成本的方式使用图形编辑器**。
+**付费版本提供完整的前后端功能，企业无须研发即可快速、低成本构建自己的创意设计工具**。
 
-如果您需要定制化开发或者有自己的技术工程师团队，我们可以提供详细的实施方案与培训课程，帮助技术团队快速接入，**让您的技术团队聚焦在业务中，而不是将大量精力消耗在图片编辑器上**。
+[【付费版功能介绍】->](https://ws0gdejldw.feishu.cn/docx/GKmnddCgFokr4sxFeYNcoql1nAb)
 
-<img src="/public/c5f1268b28694307b3cacc7c57bd3228~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.webp" alt="">
-
-
-## 1. 素材管理
-
-图形编辑器需要对字体文件、图片素材、特效字体、模板文件等内容进行管理，**轻松替换编辑器内素材，秒变符合垂直业务场景编辑器**，如电商图片编辑器、证书图片编辑器等。
-<img src="/public/screenshot-20231227-125713.png" alt="" >
-
-## 2. 账号角色管理
-可在后台创建管理员、普通角色账号，实现不同角色的协同工作。同时可对C端用户提供注册、登录功能。
-<img src="/public/screenshot-20231227-125939.png" alt="" >
-
-## 3. 批量生成图片
-有2种方式来实现批量生成图片
-- 一品多图，将一个份数据生成多个不同样式图片，如将一张产品图片，直接生成店铺banner、缩略图、公众号图等多个不同板式的图片。
-
-<img src="/public/screenshot-20231227-125413.png" alt="" >
-
-- 一图多品，将多份数据生成板式一样的产品图片，如将多个不同的产品生成风格统一的产品图片。
-
-<img src="/public/screenshot-20231227-124939.png" alt="" >
+<img src="/public/Foxmail20240523120342.png" alt="">
 
 
-[快图](https://wj.qq.com/s2/13937276/c127/)
+如果您需要定制化开发或技术对接，我们可以提供实施方案与培训课程，帮助技术团队快速接入，**让您的技术团队聚焦在业务中，而不是将大量精力消耗在设计工具上**。
+
+
+# Product introduction
+The open source version provides a powerful front-end plug-in graphics editor, but in practical applications, enterprises still need to carry out other research and development work, such as management background, user account system, data storage and other functions.
+
+**The paid version offers full front and back end functionality, allowing companies to quickly and cheaply build their own creative design tools without research and development**。
+
+We can provide implementation plans and training courses to help technical teams connect quickly。
+
+Email：[nihaojob@163.com](mailto:nihaojob@163.com)
+
+[【Contact form】->](https://wj.qq.com/s2/13937276/c127/)
+
 
 
 
