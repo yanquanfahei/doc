@@ -147,7 +147,7 @@ git clone https://github.com/pengzhijian123/vue-fabric-editor.git（这个是刚
 
 ## 7. 被采纳合并
 
-由于被采纳且合并了，所以保留本地main分支拉取最新远程main分支就行了，下次修改就从main分支中新建新分支再修改pr
+由于被采纳且合并了，所以保留本地main分支拉取最新远程main分支就行了，下次修改就从main分支中新建新分支再提交pr
 
 ### 7.1 删除本地分支
 
