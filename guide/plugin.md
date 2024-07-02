@@ -4,6 +4,10 @@
 
 讨论参见 https://github.com/nihaojob/vue-fabric-editor/issues/205
 
+
+插件编写详见视频22分40秒处：
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1405806983&bvid=BV1xr421F7js&cid=1586274984&p=1" scrolling="no" border="0" frameborder="no" width="100%" height="400" framespacing="0" allowfullscreen="true"> </iframe>
+
 ## Editor Core模块封装
 
 初始化实例后，将初始化后的实例注入到各个组件中，供其他组件调用，引入插件机制，确保其他插件可灵活的引入到Editor对象中。
