@@ -61,6 +61,16 @@ export default defineConfig({
         ]
       },
       {
+        text: '📦 APIs ',
+        collapsed: false,
+        items: [
+          { text: '添加元素', link: '/api/AddBaseType' },
+          { text: '锁定/解锁', link: '/api/Lock' },
+          { text: '图层操作', link: '/api/Layer' },
+          { text: '居中操作', link: '/api/Center' },
+        ]
+      },
+      {
         text: '🙌 贡献和社区',
         collapsed: false,
         items: [
