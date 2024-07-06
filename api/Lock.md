@@ -2,7 +2,7 @@
  * @Author: 秦少卫
  * @Date: 2024-07-06 17:48:39
  * @LastEditors: 秦少卫
- * @LastEditTime: 2024-07-06 18:04:56
+ * @LastEditTime: 2024-07-06 22:30:33
  * @Description: file content
 -->
 
@@ -18,7 +18,7 @@
 canvasEditor.lock()
 ```
 
-### position
+### unLock
 将画布中当前选中的元素解锁，让该元素可选中、修改。
 
 ```js
