@@ -26,7 +26,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '🔖 指南', link: '/guide/index' },
-      { text: '💻 预览', link: 'https://nihaojob.github.io/vue-fabric-editor/#/' }
+      { text: '💻 预览', link: 'https://ikuaitu.github.io/vue-fabric-editor/#/' }
     ],
 
     sidebar: [
