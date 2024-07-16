@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "🚀 快图设计",
   description: "开源vue图片编辑器，基于fabric.js，支持图片、视频、文字、图标等元素，支持自定义模板、素材分类、插件化等",
-  base: '/editorDoc',
+  base: '/doc',
   head:[
     [
       'script',
