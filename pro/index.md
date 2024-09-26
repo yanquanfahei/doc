@@ -2,7 +2,7 @@
  * @Author: 秦少卫
  * @Date: 2023-12-25 22:39:37
  * @LastEditors: 秦少卫
- * @LastEditTime: 2024-06-08 10:07:33
+ * @LastEditTime: 2024-09-26 16:17:29
  * @Description: file content
 -->
 
@@ -11,11 +11,12 @@
 
 开源版本提供了一个强大的前端插件化图形编辑器，但企业在实际应用中，仍要需要进行其他的研发工作，如管理后台、用户账号体系、数据存储等功能。
 
-**付费版本提供完整的前后端功能，企业无须研发即可快速、低成本构建自己的创意设计工具**。
+**企业版提供完整的前后端功能，企业无须研发即可快速、低成本构建自己的创意设计工具**。
 
-[【付费版功能介绍】->](https://ws0gdejldw.feishu.cn/docx/GKmnddCgFokr4sxFeYNcoql1nAb)
+- [【产品介绍】->](https://pro.kuaitu.cc/)
+- [【功能介绍】->](https://ws0gdejldw.feishu.cn/docx/GKmnddCgFokr4sxFeYNcoql1nAb)
 
-<img src="/public/Foxmail20240523120342.png" alt="">
+<img src="/public/Foxmail20240911054311.png" alt="">
 
 
 如果您需要定制化开发或技术对接，我们可以提供实施方案与培训课程，帮助技术团队快速接入，**让您的技术团队聚焦在业务中，而不是将大量精力消耗在设计工具上**。
@@ -30,7 +31,7 @@ We can provide implementation plans and training courses to help technical teams
 
 Email：[nihaojob@163.com](mailto:nihaojob@163.com)
 
-[【Contact form】->](https://wj.qq.com/s2/13937276/c127/)
+[【Contact form】->](https://pro.kuaitu.cc/index-en.html)
 
 
 

@@ -76,12 +76,12 @@ export default defineConfig({
         items: [
           { text: '贡献指南', link: '/guide/community' },
           { text: 'PR教程', link: '/guide/pr' },
-          { text: '开发教程', link: 'https://www.yuque.com/qinshaowei/fabric/qrdqudwo7sxadr4d?singleDoc#o8m1e' },
+          // { text: '开发教程', link: 'https://www.yuque.com/qinshaowei/fabric/qrdqudwo7sxadr4d?singleDoc#o8m1e' },
           { text: '关于作者', link: 'https://juejin.cn/user/3843548383549214/posts' },
         ]
       },
       {
-        text: '📦 付费版',
+        text: '📦 企业版',
         collapsed: false,
         items: [
           { text: '简介', link: '/pro/index' },
