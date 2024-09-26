@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "🚀 Vue Fabric Editor"
+  name: "Vue Fabric Editor"
   text: "快速构建图形编辑器"
   tagline: 一款基于Fabric + Vue3的开源Web图片编辑器
   actions:
@@ -14,8 +14,8 @@ hero:
       text: View on GitHub
       link: https://github.com/nihaojob/vue-fabric-editor
   image:
-    src: https://user-images.githubusercontent.com/13534626/230828335-0adee0ae-b951-4171-b6ba-d2b9cd44dd6a.png
-    alt: VitePress
+    src: https://github-production-user-asset-6210df.s3.amazonaws.com/13534626/371040223-ad94ca59-b7db-45ab-8426-c0c24c1e353f.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T075752Z&X-Amz-Expires=300&X-Amz-Signature=0b2dd311285b83d882834e4f760a2977b1da067cfb4b79bea64a6348bff61785&X-Amz-SignedHeaders=host
+    alt: 开源图片编辑器
 
 features:
   - icon: ⚙️
