@@ -25,6 +25,7 @@ export default defineConfig({
     // logo: { src: '/public/logo.png', width: 24, height: 24 },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
+      { text: '💡 企业版', link: 'https://pro.kuaitu.cc/' },
       { text: '🔖 指南', link: '/guide/index' },
       { text: '💻 预览', link: 'https://ikuaitu.github.io/vue-fabric-editor/#/' }
     ],

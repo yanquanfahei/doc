@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Vue Fabric Editor"
-  text: "快速构建图形编辑器"
+  text: "快速构建图片编辑器"
   tagline: 一款基于Fabric + Vue3的开源Web图片编辑器
   actions:
     - theme: brand
@@ -18,10 +18,10 @@ hero:
     alt: 开源图片编辑器
 
 features:
-  - icon: ⚙️
+  - icon: 🛠️
     title: 插件化架构
-    details: 可自定义素材、右键菜单、快捷键等功能，易扩展。
-  - icon: 🌂
+    details: 可自定义素材、右键菜单、快捷键等功能，方便二次开发，轻松扩展。
+  - icon: 🏖️
     title: 简洁易用
     details: 以轻量、简洁为主的图形编辑器，而非大而全的在线PS类的重行设计工具。
   - icon: 🛍️
