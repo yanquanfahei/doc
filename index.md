@@ -14,7 +14,7 @@ hero:
       text: View on GitHub
       link: https://github.com/nihaojob/vue-fabric-editor
   image:
-    src: https://github-production-user-asset-6210df.s3.amazonaws.com/13534626/371040223-ad94ca59-b7db-45ab-8426-c0c24c1e353f.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T075752Z&X-Amz-Expires=300&X-Amz-Signature=0b2dd311285b83d882834e4f760a2977b1da067cfb4b79bea64a6348bff61785&X-Amz-SignedHeaders=host
+    src: https://raw.githubusercontent.com/ikuaitu/doc/e53e8f953fbcd86855104d00224e03ddb5780f4c/public/icon.svg
     alt: 开源图片编辑器
 
 features:
