@@ -8,10 +8,10 @@ hero:
   tagline: 一款基于Fabric + Vue3的开源Web图片编辑器
   actions:
     - theme: brand
-      text: Get Started
+      text: 阅读指南
       link: /guide/index
     - theme: alt
-      text: View on GitHub
+      text: GitHub
       link: https://github.com/nihaojob/vue-fabric-editor
   image:
     src: https://raw.githubusercontent.com/ikuaitu/doc/e53e8f953fbcd86855104d00224e03ddb5780f4c/public/icon.svg

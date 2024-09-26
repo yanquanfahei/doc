@@ -2,7 +2,7 @@
  * @Author: 秦少卫
  * @Date: 2023-12-25 22:39:37
  * @LastEditors: 秦少卫
- * @LastEditTime: 2024-09-26 16:17:29
+ * @LastEditTime: 2024-09-26 16:46:12
  * @Description: file content
 -->
 
@@ -31,7 +31,7 @@ We can provide implementation plans and training courses to help technical teams
 
 Email：[nihaojob@163.com](mailto:nihaojob@163.com)
 
-[【Contact form】->](https://pro.kuaitu.cc/index-en.html)
+[【Contact More】->](https://pro.kuaitu.cc/index-en.html)
 
 
 
