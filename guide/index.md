@@ -22,7 +22,7 @@
 
 * 功能完善：针对海报、图片编辑场景，基础功能完善，细节更丰富。
 * 简单易用：简洁易用的交互方式，供非专业设计人员。
-* 扩展便捷：业务层使用Vue开发，上手更块，Fabric.js做底层。
+* 扩展便捷：业务层使用Vue开发，上手更快，Fabric.js做底层。
 
 <figure><img src="/public/230828335-0adee0ae-b951-4171-b6ba-d2b9cd44dd6a.png" alt=""><figcaption></figcaption></figure>
 
